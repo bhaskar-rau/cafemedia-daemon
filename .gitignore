@@ -1,0 +1,28 @@
+# IDE and Editor files
+.vscode/
+.mvn/
+
+# Maven target directory
+target/
+
+# Log files
+*.log
+
+# Java class files
+*.class
+
+# Eclipse project files
+.classpath
+.project
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Miscellaneous
+*.swp
+*.tmp
+
+# OS specific files
+.DS_Store
+Thumbs.db
